@@ -1,6 +1,6 @@
 {
   "name": "onboarding.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Loader for onboarding.is tools",
   "main": "dist/onboarding.umd.js",
   "module": "dist/onboarding.es.js",
